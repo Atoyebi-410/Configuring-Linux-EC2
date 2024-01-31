@@ -10,8 +10,12 @@ The aim of this project is to create and configure a Linux EC2 instance to funct
   <img src="https://github.com/Atoyebi-410/Configuring-Linux-EC2/assets/137656490/443d1094-9411-46a6-8d24-3fc7901c249f">
 </p>
 
-## Project Objectives
+## Project Objectives:
 
 - Launch a Linux-based EC2 instance using Amazon Linux 2 AMI.
 - Configure the instance with necessary settings for web server operations.
 - Establish a secure SSH connection and perform basic network tests.
+
+## Project Steps:
+
+1. Launching a new EC2, selecting Amazon Linux 2 as the Operating Software and choosing t3.micro as the instance type.
